@@ -5,6 +5,7 @@
   "repository": {
     "type": "git",
     "url":  "ihttps://github.com/Atlas7/jcnpm1"
+  }
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
