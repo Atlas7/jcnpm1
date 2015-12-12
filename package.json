@@ -1,7 +1,10 @@
 {
   "name": "@atlas7/jcnpm1",
   "version": "1.0.0",
-  "description": "walk through FreeCodeCamp npm module.",
+  "description": "my first npm module following walk through FreeCodeCamp npm module.",
+  "repository": {
+    "type": "git",
+    "url":  "ihttps://github.com/Atlas7/jcnpm1"
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
